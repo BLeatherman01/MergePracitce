@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bleat\\source\\repos\\MergePractice\\MergePractice.csproj": {}
+    "C:\\Users\\bleat\\Desktop\\practice branch\\MergePracitce\\MergePractice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bleat\\source\\repos\\MergePractice\\MergePractice.csproj": {
+    "C:\\Users\\bleat\\Desktop\\practice branch\\MergePracitce\\MergePractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bleat\\source\\repos\\MergePractice\\MergePractice.csproj",
+        "projectUniqueName": "C:\\Users\\bleat\\Desktop\\practice branch\\MergePracitce\\MergePractice.csproj",
         "projectName": "MergePractice",
-        "projectPath": "C:\\Users\\bleat\\source\\repos\\MergePractice\\MergePractice.csproj",
+        "projectPath": "C:\\Users\\bleat\\Desktop\\practice branch\\MergePracitce\\MergePractice.csproj",
         "packagesPath": "C:\\Users\\bleat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bleat\\source\\repos\\MergePractice\\obj\\",
+        "outputPath": "C:\\Users\\bleat\\Desktop\\practice branch\\MergePracitce\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
